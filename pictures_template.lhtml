@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="list.css">
+<title>Costume Design</title>
+</head>
+<body>
+<center>
+
+<div class="title">
+
+<b style="font-family:calibri">TYPE Productions</b><br>
+<a href="index.html">&emsp;Home&emsp;</a>
+<a href="2015b.html">&emsp;2015&emsp;</a>
+<a href="2016b.html">&emsp;2016&emsp;</a>
+<a href="2017b.html">&emsp;2017&emsp;</a>
+<a href="contact.html">&emsp;Contact&emsp;</a>
+
+</div>
+
+<div class="maintext">
+
+<PICTURE_CODE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</center>
+</body>
+</html>
+
+
+
+
+<a href="PLAY_NAME_DIR.html">
+<figure style="display:inline-block;">
+<img src="PLAY_TYPE/PLAY_NAME_DIR/PICTURE" alt="PLAY_NAME" style="height:400px;">
+<figcaption>PLAY_NAME</figcaption>
+</figure>
+</a>
