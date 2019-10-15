@@ -9,7 +9,9 @@ body{
 }
 
 img {
-    margin-top: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+	margin-right: 20px;
 }
 
 a {font-size: 15px}
@@ -32,21 +34,25 @@ div.title {
 	color: #e4e4e5;
 
 
-    margin-bottom: 100px;
+  
 
-    background-color: #292733;
+    background-color: #2A1201;
 
-	position: static;
 
+position: fixed;
+height: 340px;
+left: 0;
+top: 340px;
+width: 80px;
 }
 
 div.maintext {
     width:100%;
-    margin: -100px;
+    margin: 0px;
 	height: 100%;
 
 
-    background-color: #44424d;
+    background-color: #743E03;
 }
 
 

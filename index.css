@@ -4,18 +4,18 @@ body{
 
    margin: 0;
    padding: 0;
- background-color:  #44424d;
+ background-color:  #743E03;
   
 }
 
 .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  background-color: #44424d;
+  background-color: #743E03;
 }
 
 .flex-container>div {
-  background-color: #44424d;
+  background-color: #743E03;
   width: 500px;
   margin: 10px;
 	margin-top: -90px;
@@ -23,7 +23,7 @@ body{
   font-size: 30px;
 }
 .flex-container>div1 {
-  background-color: #44424d;
+  background-color: #743E03;
   width: 900px;
   
 	margin-top: -100px;
@@ -42,10 +42,12 @@ a:hover, a:active { text-decoration: none; color:#cac9cc }
 
 b {font-size: 40px}
 
-
 c {font-size: 15px}
-
-
+c:visited { text-decoration: none; color:#cac9cc; }
+c:hover { text-decoration: none; color:#cac9cc; }
+c:focus { text-decoration: none; color:#cac9cc; }
+c:link { text-decoration: none; color:#cac9cc; }
+c:hover, a:active { text-decoration: none; color:#cac9cc }
 
 div.title {
 	color: #e4e4e5;
@@ -53,20 +55,24 @@ div.title {
 
     margin-bottom: 100px;
 
-    background-color: #292733;
+    background-color: #2A1201;
 
-	position: static;
 
+position: fixed;
+height: 340px;
+left: 0;
+top: 340px;
+width: 80px;
 }
 
 div.maintext {
     width:100%;
-    margin: -90px;
-	margin-left: 510px;
+    margin-left: 200px;
+    margin-top: 100px;
 	height: 100%;
 
 
-    background-color: #44424d;
+    background-color: #743E03;
 }
 
 

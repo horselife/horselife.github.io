@@ -4,7 +4,7 @@ body{
 
    margin: 0;
    padding: 0;
- background-color: #44424d;
+ background-color: #743E03;
   
 }
 
@@ -16,7 +16,7 @@ figure {
     margin-right: 40px;
 }
 
-
+a {font-size: 15px}
 a:visited { text-decoration: none; color:#cac9cc; }
 a:hover { text-decoration: none; color:#cac9cc; }
 a:focus { text-decoration: none; color:#cac9cc; }
@@ -25,7 +25,6 @@ a:hover, a:active { text-decoration: none; color:#cac9cc }
 
 b {font-size: 40px}
 
-
 c {font-size: 15px}
 c:visited { text-decoration: none; color:#cac9cc; }
 c:hover { text-decoration: none; color:#cac9cc; }
@@ -33,18 +32,20 @@ c:focus { text-decoration: none; color:#cac9cc; }
 c:link { text-decoration: none; color:#cac9cc; }
 c:hover, a:active { text-decoration: none; color:#cac9cc }
 
-
-
 div.title {
 	color: #e4e4e5;
 
 
     margin-bottom: 100px;
 
-    background-color: #292733;
+    background-color: #2A1201;
 
-	position: static;
 
+position: fixed;
+height: 340px;
+left: 0;
+top: 340px;
+width: 80px;
 }
 
 div.maintext {
@@ -53,7 +54,5 @@ div.maintext {
 	height: 100%;
 
 
-    background-color: #44424d;
+    background-color: #743E03;
 }
-
-2
